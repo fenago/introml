@@ -7,3 +7,8 @@ To run the code - click the mybinder button:
 
 The Regression Algorithm data comes from:
 https://www.kaggle.com/CooperUnion/cardataset
+
+The Classification Algorithm:
+
+The Clustering Algorithm data comes from:
+https://www.kaggle.com/arjunbhasin2013/ccdata
